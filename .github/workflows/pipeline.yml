@@ -4,4 +4,4 @@ jobs:
  hello-word:
     runs-on: ubuntu-lastest
     steps:
-         - run: echo "Hello Word"
+         - run: ls -la
